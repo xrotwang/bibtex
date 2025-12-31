@@ -1,4 +1,4 @@
-module github.com/nickng/bibtex
+module github.com/xrotwang/bibtex
 
 go 1.18
 
